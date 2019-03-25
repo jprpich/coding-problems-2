@@ -1,4 +1,4 @@
-# write a function that returns the indices of array elemts that sum to 0
+# write a function that returns the indices of array elements that sum to 0
 def two_sum(arr1, arr2):
   result = []
   for i in range(len(arr1)): 
